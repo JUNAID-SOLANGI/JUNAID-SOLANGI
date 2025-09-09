@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Junaid Solangi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Data+Scientist+%26+AI+Developer+🚀;🐍+Python+%7C+🤖+LLMs+%7C+✨+Generative+AI+✨;📊+M.Phil.+Data+Science+Candidate+📊;🔥+Always+coding+something+amazing!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🚀+Data+Scientist+%26+AI+Developer+🚀;🐍+Python+%7C+🤖+LLMs+%7C+✨+Generative+AI+✨;📊+M.Phil.+Data+Science+Candidate+📊;🔥+Always+coding+something+amazing!+🔥" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
