@@ -65,7 +65,7 @@
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JUNAID-SOLANGI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JUNAID-SOLANGI&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+
 </div>
 
 <div align="center">
