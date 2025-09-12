@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&labelColor=000000">
 </p>
 
-### <img src="https://media.giphy.com/media/m GQC7B01byFQgjSXwP/giphy.gif" width="30"> Data Visualization & Tools
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Data Visualization & Tools
 <p>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=000000">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000">
@@ -120,9 +120,9 @@
 
 | <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> | **M.Phil. in Data Science** | University of Sindh (2025) |
 |---|---|---|
-| <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> | **BS (Honors) in Mathematics** | University of Sindh (2023) |
 | <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"> | **Data Science & AI Bootcamp** | atomcamp (2025) |
-| <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nSs/giphy.gif" width="50"> | **HSK-II Chinese** | Confucious Institute (2018) |
+| <img src="https://www.mathgptpro.com/static/media/logoRotating.83c5fee5b47c29ab4a9a.gif" width="50"> | **BS (Honors) in Mathematics** | University of Sindh (2023) |
+| <img src="https://studycli.org/wp-content/uploads/2021/04/chinese-stroke-order-for-wo-character.gif" width="50"> | **HSK-II Chinese** | Confucious Institute (2018) |
 
 </div>
 
